@@ -1,0 +1,16 @@
+C:\Users\arpit\Documents\Project Euler\bin\Debug\net5.0\Project Euler.exe
+C:\Users\arpit\Documents\Project Euler\bin\Debug\net5.0\Project Euler.deps.json
+C:\Users\arpit\Documents\Project Euler\bin\Debug\net5.0\Project Euler.runtimeconfig.json
+C:\Users\arpit\Documents\Project Euler\bin\Debug\net5.0\Project Euler.runtimeconfig.dev.json
+C:\Users\arpit\Documents\Project Euler\bin\Debug\net5.0\Project Euler.dll
+C:\Users\arpit\Documents\Project Euler\bin\Debug\net5.0\ref\Project Euler.dll
+C:\Users\arpit\Documents\Project Euler\bin\Debug\net5.0\Project Euler.pdb
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\Project Euler.csproj.AssemblyReference.cache
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\Project Euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\Project Euler.AssemblyInfoInputs.cache
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\Project Euler.AssemblyInfo.cs
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\Project Euler.csproj.CoreCompileInputs.cache
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\Project Euler.dll
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\ref\Project Euler.dll
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\Project Euler.pdb
+C:\Users\arpit\Documents\Project Euler\obj\Debug\net5.0\Project Euler.genruntimeconfig.cache
